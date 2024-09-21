@@ -1,0 +1,6 @@
+kits
+git add c.txt
+
+
+git status
+
